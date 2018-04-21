@@ -1,0 +1,11 @@
+{
+  "name": "react_from_scratch",
+  "version": "1.0.0",
+  "description": "Step by step React from scratch with Web Pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J. Graves",
+  "license": "MIT"
+}
